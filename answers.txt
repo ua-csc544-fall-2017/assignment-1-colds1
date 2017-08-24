@@ -1,0 +1,31 @@
+CSC 544
+Courtney Olds
+Assignment 1
+
+1. I'm taking this course because it will count as my last 400-level class for my undergrad degree. I chose this class over the other 400 level classes because I think this will be the most interesting to me and broaden my knowledge on the topics covered.
+
+2. I think I will more in depth technically in the programming languages of JavaScript, CSS and HTML. I think I will learn most about what actually goes into making data visualized in a good way, which I don't have much experience with.
+
+3. I am comfortable with Java, JavaScript, and HTML.
+
+4. I am most comfortable with Java since that's what they teach/taught most of the undergrad classes here in.
+
+5. I have not ever created a data visualization.
+
+6. The largest data set that I've used has been in 483 in our final projectwhen we were building a mini Watson. We had about 80 files with different Wikipedia articles that we had to parse.
+
+7. I'm not sure I know many data visualizations off the top of my head. I think of going off what we talked about in class was the periodic table. I never really analized it from a data visualization perspective, but it was created very well based on its structure, spacing, and color.
+
+8. Again not really knowing a visualization off the top of my head. The one that we talked abouton the first day of class (linked on your webpage). It was information that didn't mkae sense in a chart that was more confusing that helpful. We talked about how if the chart is interpreted in multiple ways then it wasn't clear enough.
+
+9. For programming percentile, I would say I am in the top 40% because I am still an undergrad, but I have worked some with JavaScript, HTML, and CSS in my internships.
+
+10. For math percentile, I would say I'm in the top 50% because even though I am a math minor, I am still an undergrad and have forgotten some things.
+
+11. I had not heard of the term version control, but after loooking it up, I have used it before just not too well.
+
+12. I have used Git repsository minimally in CSC 335.
+
+13. Similarly, I have only used GitHub minimally in CSC 335.
+
+14. Lately, I have been discussing smart mirrors with a couple people. Mainly how cool they are. We'd discuss what features we like the most from kickstarters and what we would add to them to make them what we would want. I don't usually look at kickstarters so I that's how I have been learning, by what other people/companies are doing.
